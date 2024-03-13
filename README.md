@@ -1,3 +1,3 @@
 # YOLOb
 
-Application of YOLO for tumor identification
+Application of YOLO for solar panels identification
